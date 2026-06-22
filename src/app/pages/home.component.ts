@@ -288,7 +288,7 @@ export class HomeComponent implements OnInit {
     this.seoService.setMetadata({
       title: 'Sree Saravana Construction Chemicals | Epoxy Resin',
       description: 'Explore epoxy resin, multiple colour possibilities and application ideas. Send a direct project enquiry to Sree Saravana Construction Chemicals.',
-      keywords: 'epoxy resin, coloured epoxy resin, construction chemicals, epoxy resin supplier'
+      keywords: 'Epoxy pigment, Epoxy resin pigment, Epoxy pigment supplier, Epoxy Pigment Manufacturer, Epoxy pigment wholesale, Bulk Epoxy pigments, custom epoxy color pigment, premium epoxy pigments, high quality resin pigments'
     });
   }
 }

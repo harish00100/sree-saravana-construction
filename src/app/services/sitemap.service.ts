@@ -4,7 +4,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class SitemapService {
-  private baseUrl = 'https://techflow-industrial.com';
+  private baseUrl = 'https://sree-saravana-construction.vercel.app';
 
   private routes = [
     { path: '', priority: '1.0', changefreq: 'weekly' },
